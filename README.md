@@ -1,16 +1,8 @@
-# mini_ds_todo
+# vChat-A Community Chat Application
 
-A new Flutter project.
+## About the app.
+vChat is a community chat application where the users within a community/society/office/classes can chat with each other.
+It can be used for formal communication regarding the meetings,lectures,etc depending on the environment you're using.
+It supports real-time chatting.
+The user can login using their google account and their details are safe and secure with the help of Firebase-auth.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
