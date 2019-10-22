@@ -7,5 +7,5 @@ It supports real-time chatting.
 The user can login using their google account and their details are safe and secure with the help of Firebase-auth.
 
 ## Working
-
+(In the working i used my mother's account to show you the real-time chatting and different user support)
 ![vChat](https://user-images.githubusercontent.com/44740658/67267645-5c465980-f4d0-11e9-9950-c4da54fa1e81.gif)
